@@ -1,0 +1,6 @@
+@ComixLog_HostAddress = http://localhost:5014
+
+GET {{ComixLog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
