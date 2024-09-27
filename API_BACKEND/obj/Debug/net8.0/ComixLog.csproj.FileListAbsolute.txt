@@ -135,3 +135,11 @@ C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API
 C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ComixLog.pdb
 C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ComixLog.genruntimeconfig.cache
 C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ref\ComixLog.dll
+C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

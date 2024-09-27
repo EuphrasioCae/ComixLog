@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComixLog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ba191fac639bcc6b2dc8abecb94259c27115319")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComixLog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComixLog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

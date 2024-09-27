@@ -1,5 +1,6 @@
 ﻿using ComixLog.Models;
 using ComixLog.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using MongoDB.Driver;
@@ -31,6 +32,7 @@ namespace ComixLog.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Post(Container newContainer)
         {
             await _containersService.CreateAsync(newContainer);
@@ -38,18 +40,36 @@ namespace ComixLog.Controllers
         }
 
         [HttpPut("{id:length(24)}")]
+        [Authorize(Roles = "Admin")]
+
 
         public async Task<IActionResult> Update(string id, Container containerUpdated)
         {
-            var container = await _containersService.GetAsync(id);
-            if (container == null) return NotFound();
-            containerUpdated.Id = container.Id;
-            await _containersService.UpdateAsync(id, containerUpdated);
+            try
+            {
+                var container = await _containersService.GetAsync(id);
+                if (container == null) throw new Exception("Container não encontrado.");
 
-            return NoContent();
+                // Atualizar as propriedades do contêiner
+                containerUpdated.Id = container.Id;
+
+                // Verificar se os novos valores são válidos antes de atualizar
+                if (containerUpdated.CapacidadeAtual > containerUpdated.CapacidadeTotal)
+                throw new Exception("Capacidade atual excede a capacidade total.");
+
+                // Atualizar o contêiner
+                await _containersService.UpdateAsync(id, containerUpdated);
+
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { error = ex.Message });
+            }
         }
         
         [HttpDelete("{id:length(24)}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(string id)
         {
             var container = await _containersService.GetAsync(id);

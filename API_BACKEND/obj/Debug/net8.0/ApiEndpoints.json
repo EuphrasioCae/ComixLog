@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "ComixLog.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "ComixLog.Controllers.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ComixLog.Controllers.ContainersController",
     "Method": "Get",
     "RelativePath": "api/Containers",
