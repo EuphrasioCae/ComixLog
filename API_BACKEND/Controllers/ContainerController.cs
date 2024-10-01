@@ -35,6 +35,12 @@ namespace ComixLog.Controllers
         [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Post(Container newContainer)
         {
+            // Validação da capacidade
+            if (newContainer.CapacidadeAtual > newContainer.CapacidadeTotal)
+            {
+                return BadRequest("Capacidade atual excede a capacidade total.");
+            }
+
             await _containersService.CreateAsync(newContainer);
             return CreatedAtAction(nameof(Get), new { id = newContainer.Id }, newContainer);
         }

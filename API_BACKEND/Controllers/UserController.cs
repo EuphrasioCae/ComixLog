@@ -17,11 +17,13 @@ namespace ComixLog.Controllers
             _usersService = usersService;
         }
         [HttpGet]
+        [Authorize(Roles = "Admin")]
         public async Task<List<User>> Get() =>
             await _usersService.GetAsync();
 
 
         [HttpGet("{id:length(24)}")]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<User>> Get(string id)
         {
             var user = await _usersService.GetAsync(id);
@@ -31,6 +33,7 @@ namespace ComixLog.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Post(User newUser)
         {
             await _usersService.CreateAsync(newUser);
@@ -38,6 +41,7 @@ namespace ComixLog.Controllers
         }
 
         [HttpPut("{id:length(24)}")]
+        [Authorize(Roles = "Admin")]
 
         public async Task<IActionResult> Update(string id, User userUpdated)
         {
@@ -50,6 +54,8 @@ namespace ComixLog.Controllers
         }
 
         [HttpDelete("{id:length(24)}")]
+        [Authorize(Roles = "Admin")]
+
         public async Task<IActionResult> Delete(string id)
         {
             var user = await _usersService.GetAsync(id);

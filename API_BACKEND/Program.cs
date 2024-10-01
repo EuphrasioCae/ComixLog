@@ -37,6 +37,7 @@ namespace ComixLog
                 builder.Configuration.GetSection("ComixLogDatabase"));
             builder.Services.AddSingleton<ContainersService>();
             builder.Services.AddSingleton<UsersService>();
+            builder.Services.AddSingleton<AlocationService>();
 
             builder.Services.AddControllers();
 

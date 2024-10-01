@@ -143,3 +143,165 @@ C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API
 C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Luiz Felipe\Source\Repos\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\appsettings.json
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\ComixLog.exe
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\ComixLog.deps.json
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\ComixLog.runtimeconfig.json
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\ComixLog.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\ComixLog.pdb
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\DnsClient.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Snappier.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ComixLog.csproj.AssemblyReference.cache
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ComixLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ComixLog.AssemblyInfoInputs.cache
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ComixLog.AssemblyInfo.cs
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ComixLog.csproj.CoreCompileInputs.cache
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ComixLog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ComixLog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ComixLog.sourcelink.json
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.ComixLog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.build.ComixLog.props
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ComixLog.props
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ComixLog.props
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\scopedcss\bundle\ComixLog.styles.css
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ComixLog.csproj.Up2Date
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ComixLog.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\refint\ComixLog.dll
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ComixLog.pdb
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ComixLog.genruntimeconfig.cache
+C:\Users\evell\OneDrive\Área de Trabalho\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\src\API_BACKEND\obj\Debug\net8.0\ref\ComixLog.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\appsettings.json
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\ComixLog.exe
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\ComixLog.deps.json
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\ComixLog.runtimeconfig.json
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\ComixLog.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\ComixLog.pdb
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\DnsClient.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\Snappier.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\ComixLog.csproj.AssemblyReference.cache
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\ComixLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\ComixLog.AssemblyInfoInputs.cache
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\ComixLog.AssemblyInfo.cs
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\ComixLog.csproj.CoreCompileInputs.cache
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\ComixLog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\ComixLog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\ComixLog.sourcelink.json
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.ComixLog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.build.ComixLog.props
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ComixLog.props
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ComixLog.props
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\scopedcss\bundle\ComixLog.styles.css
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\ComixLog.csproj.Up2Date
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\ComixLog.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\refint\ComixLog.dll
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\ComixLog.pdb
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\ComixLog.genruntimeconfig.cache
+C:\Users\evell\OneDrive\Área de Trabalho\c\src\API_BACKEND\obj\Debug\net8.0\ref\ComixLog.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\appsettings.json
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\ComixLog.exe
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\ComixLog.deps.json
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\ComixLog.runtimeconfig.json
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\ComixLog.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\ComixLog.pdb
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\DnsClient.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\Snappier.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\ComixLog.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\ComixLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\ComixLog.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\ComixLog.AssemblyInfo.cs
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\ComixLog.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\ComixLog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\ComixLog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\ComixLog.sourcelink.json
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.ComixLog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.build.ComixLog.props
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ComixLog.props
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ComixLog.props
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\scopedcss\bundle\ComixLog.styles.css
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\ComixLog.csproj.Up2Date
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\ComixLog.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\refint\ComixLog.dll
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\ComixLog.pdb
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\ComixLog.genruntimeconfig.cache
+C:\Users\USER\Desktop\repositorioTestes\src\API_BACKEND\obj\Debug\net8.0\ref\ComixLog.dll

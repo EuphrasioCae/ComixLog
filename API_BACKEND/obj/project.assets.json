@@ -1510,19 +1510,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Luiz Felipe\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luiz Felipe\\Source\\Repos\\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\\src\\API_BACKEND\\ComixLog.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\repositorioTestes\\src\\API_BACKEND\\ComixLog.csproj",
       "projectName": "ComixLog",
-      "projectPath": "C:\\Users\\Luiz Felipe\\Source\\Repos\\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\\src\\API_BACKEND\\ComixLog.csproj",
-      "packagesPath": "C:\\Users\\Luiz Felipe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luiz Felipe\\Source\\Repos\\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\\src\\API_BACKEND\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Desktop\\repositorioTestes\\src\\API_BACKEND\\ComixLog.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\repositorioTestes\\src\\API_BACKEND\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Luiz Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1586,7 +1586,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
