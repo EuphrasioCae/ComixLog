@@ -16,6 +16,8 @@ namespace ComixLog.Models
 
         public string? Password { get; set; } = string.Empty;
 
+        public string? CNPJ { get; set; } = string.Empty;
+
         public bool? Admin { get; set; }
 
     }
