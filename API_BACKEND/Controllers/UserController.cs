@@ -41,6 +41,8 @@ namespace ComixLog.Controllers
             {
                 return BadRequest("CNPJ inválido.");
             }
+
+            newUser.Password = BCrypt.Net.BCrypt.HashPassword(newUser.Password);
         
             await _usersService.CreateAsync(newUser);
             return CreatedAtAction(nameof(Get), new { id = newUser.Id }, newUser);
