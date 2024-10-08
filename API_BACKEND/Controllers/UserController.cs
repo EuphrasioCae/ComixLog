@@ -1,5 +1,6 @@
 ﻿using ComixLog.Models;
 using ComixLog.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using MongoDB.Driver;
@@ -34,16 +35,16 @@ namespace ComixLog.Controllers
 
         [HttpPost]
         [Authorize(Roles = "Admin")]
-       public async Task<IActionResult> Post(User newUser)
+        public async Task<IActionResult> Post(User newUser)
         {
             if (!IsValidCnpj(newUser.CNPJ))
             {
                 return BadRequest("CNPJ inválido.");
             }
-
-        await _usersService.CreateAsync(newUser);
-        return CreatedAtAction(nameof(Get), new { id = newUser.Id }, newUser);
-
+        
+            await _usersService.CreateAsync(newUser);
+            return CreatedAtAction(nameof(Get), new { id = newUser.Id }, newUser);
+        
         }
 
         private bool IsValidCnpj(string cnpj)
@@ -60,7 +61,7 @@ namespace ComixLog.Controllers
             var calculatedDigits = CalculateCnpjDigits(cnpjBase);
             return digits == calculatedDigits;
         }
-
+        
         private string CalculateCnpjDigits(string cnpjBase)
         {
             var weights = new int[] { 5, 4, 3, 2, 9, 8, 7, 6, 5, 4, 3, 2 };
@@ -72,7 +73,7 @@ namespace ComixLog.Controllers
         
             return $"{firstDigit}{secondDigit}";
         }
-
+        
         private int CalculateDigit(string baseCnpj, int[] weights)
         {
             var sum = 0;
@@ -87,7 +88,7 @@ namespace ComixLog.Controllers
 
         [HttpPut("{id:length(24)}")]
         [Authorize(Roles = "Admin")]
-
+        
         public async Task<IActionResult> Update(string id, User userUpdated)
         {
             // Valida o CNPJ antes de prosseguir com a atualização
@@ -99,7 +100,7 @@ namespace ComixLog.Controllers
             var user = await _usersService.GetAsync(id);
             if (user == null) return NotFound();
         
-            userUpdated.Id = user.Id; // Atualiza o ID do usuário para garantir que a atualização seja feita no registro correto
+            userUpdated.Id = user.Id; 
             await _usersService.UpdateAsync(id, userUpdated);
         
             return NoContent();

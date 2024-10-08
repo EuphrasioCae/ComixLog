@@ -1,5 +1,78 @@
 [
   {
+    "ContainingType": "ComixLog.Controllers.AllocationController",
+    "Method": "AlocarUsuario",
+    "RelativePath": "api/Allocation/{containerId}/alocar/{userId}/{quantidade}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "containerId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "quantidade",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComixLog.Controllers.AllocationController",
+    "Method": "RemoverUsuario",
+    "RelativePath": "api/Allocation/{containerId}/remover/{userId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "containerId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComixLog.Controllers.AllocationController",
+    "Method": "GetContainersByUser",
+    "RelativePath": "api/Allocation/usuario/{userId}/containers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ComixLog.Models.Container, ComixLog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ComixLog.Controllers.AuthController",
     "Method": "Login",
     "RelativePath": "api/Auth/login",

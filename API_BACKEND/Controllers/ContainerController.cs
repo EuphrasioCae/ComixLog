@@ -49,30 +49,30 @@ namespace ComixLog.Controllers
         [Authorize(Roles = "Admin")]
 
 
-        public async Task<IActionResult> Update(string id, Container containerUpdated)
-        {
-            try
+            public async Task<IActionResult> Update(string id, Container containerUpdated)
             {
-                var container = await _containersService.GetAsync(id);
-                if (container == null) throw new Exception("Container não encontrado.");
+                try
+                {
+                    var container = await _containersService.GetAsync(id);
+                    if (container == null) throw new Exception("Container não encontrado.");
 
-                // Atualizar as propriedades do contêiner
-                containerUpdated.Id = container.Id;
+                    // Atualizar as propriedades do contêiner
+                    containerUpdated.Id = container.Id;
 
-                // Verificar se os novos valores são válidos antes de atualizar
-                if (containerUpdated.CapacidadeAtual > containerUpdated.CapacidadeTotal)
-                throw new Exception("Capacidade atual excede a capacidade total.");
+                    // Verificar se os novos valores são válidos antes de atualizar
+                    if (containerUpdated.CapacidadeAtual > containerUpdated.CapacidadeTotal)
+                    throw new Exception("Capacidade atual excede a capacidade total.");
 
-                // Atualizar o contêiner
-                await _containersService.UpdateAsync(id, containerUpdated);
+                    // Atualizar o contêiner
+                    await _containersService.UpdateAsync(id, containerUpdated);
 
-                return NoContent();
+                    return NoContent();
+                }
+                catch (Exception ex)
+                {
+                    return BadRequest(new { error = ex.Message });
+                }
             }
-            catch (Exception ex)
-            {
-                return BadRequest(new { error = ex.Message });
-            }
-        }
         
         [HttpDelete("{id:length(24)}")]
         [Authorize(Roles = "Admin")]

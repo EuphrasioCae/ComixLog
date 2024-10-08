@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\repositorioTestes\\src\\API_BACKEND\\ComixLog.csproj": {}
+    "C:\\Users\\evell\\OneDrive\\Área de Trabalho\\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\\src\\API_BACKEND\\ComixLog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\repositorioTestes\\src\\API_BACKEND\\ComixLog.csproj": {
+    "C:\\Users\\evell\\OneDrive\\Área de Trabalho\\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\\src\\API_BACKEND\\ComixLog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\repositorioTestes\\src\\API_BACKEND\\ComixLog.csproj",
+        "projectUniqueName": "C:\\Users\\evell\\OneDrive\\Área de Trabalho\\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\\src\\API_BACKEND\\ComixLog.csproj",
         "projectName": "ComixLog",
-        "projectPath": "C:\\Users\\USER\\Desktop\\repositorioTestes\\src\\API_BACKEND\\ComixLog.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\repositorioTestes\\src\\API_BACKEND\\obj\\",
+        "projectPath": "C:\\Users\\evell\\OneDrive\\Área de Trabalho\\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\\src\\API_BACKEND\\ComixLog.csproj",
+        "packagesPath": "C:\\Users\\evell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\evell\\OneDrive\\Área de Trabalho\\pmv-ads-2024-2-e4-proj-dad-t3-comixlog\\src\\API_BACKEND\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\evell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,6 +56,16 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.8.2, )"
             }
           },
           "imports": [
@@ -78,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
